@@ -1,0 +1,9 @@
+This code is from:
+
+https://m-server.fk5.hs-bremen.de/aes/aes.html
+
+Jörg J. Buchholz
+Department of Mechanical Engineering
+Hochschule Bremen
+
+All rights are with the original author
